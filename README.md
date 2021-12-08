@@ -14,4 +14,4 @@ Pode ser escolhido qualquer tipo de ritmo, porém, deixarei um aleatório para t
 + CSS
 + JavaScript
 
-# <a href="https://AllysonNascimento.github.io/bateria/">TESTAR</a> #
+# <a href="https://allysonnascimento.github.io/bateria/bateria.html">TESTAR</a> #
